@@ -4,7 +4,7 @@ React
 
 Node.js
 
-OpenAI API
+Google gemini API
 
 MongoDB
 
